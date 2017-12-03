@@ -1,0 +1,4 @@
+# this program is for opening , writing , reading a file 
+
+file = open(../data/"test_data.txt","w")
+# w means write mode 
